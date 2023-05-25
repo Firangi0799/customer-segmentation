@@ -21,8 +21,6 @@ To run the customer segmentation dashboard locally, follow these steps:
 3. Place the dataset file in the designated directory within the cloned repository.
 4. Run the dashboard application using the provided command-line instructions.
 
-For detailed instructions on running the dashboard, refer to the documentation or README file within the cloned repository.
-
 ## Contribution
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. 
